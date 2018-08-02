@@ -1,0 +1,50 @@
+.jumbotron{
+  color: #black;
+  background-color: pink;
+  height: auto;
+  margin-bottom: 1rem;
+}
+.container{
+  color: #black;
+  background-color: #89CFFF;
+  height: auto;
+}
+
+.content-text {
+  color: black;
+  background-color: pink;
+  height: 700px;
+  padding: 0 0 0 0;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.container-fluid{
+  color: #89CFFF
+}
+
+h1{
+  font-family: Florence;
+  font-size: 50px
+}
+
+.navbar{
+  margin-bottom: 1rem;
+}
+
+.carousel{
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+table{
+  width: 100%;
+}
+
+p,h2{
+  margin-left: 1rem;
+}
+
+button{
+  background-color: #89CFFF
+}
