@@ -3,6 +3,11 @@
   background-color: pink;
   height: auto;
 }
+.container{
+  color: #black;
+  background-color: #89CFFF;
+  height: auto;
+}
 
 .content-text {
   color: black;
@@ -11,4 +16,12 @@
   padding: 0 0 0 0;
   width: 100%;
   margin-bottom: 5px;
+}
+
+.container-fluid{
+  color: #89CFFF
+}
+
+h1{
+  font-family: Florence, cursive;
 }
