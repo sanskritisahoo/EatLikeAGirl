@@ -1,0 +1,29 @@
+.container{
+  color: black;
+  background-color: #89cfff;
+  height: auto;
+}
+
+.jumbotron{
+  color: black;
+  background-color: pink;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.content-text {
+  color: black;
+  background-color: pink;
+  height: 1500px;
+  padding: 0 0 0 0;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.table-bordered {
+  border: 16px;
+  color: black;
+}
+.navbar {
+  margin-bottom: 1rem;
+}
