@@ -13,7 +13,7 @@
 .content-text {
   color: black;
   background-color: pink;
-  height: 500px;
+  height: 700px;
   padding: 0 0 0 0;
   width: 100%;
   margin-bottom: 5px;
@@ -29,4 +29,13 @@ h1{
 
 .navbar{
   margin-bottom: 1rem;
+}
+
+.carousel{
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+table{
+  width: 100%;
 }
