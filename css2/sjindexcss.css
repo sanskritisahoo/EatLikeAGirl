@@ -2,6 +2,7 @@
   color: #black;
   background-color: pink;
   height: auto;
+  margin-bottom: 1rem;
 }
 .container{
   color: #black;
@@ -24,4 +25,8 @@
 
 h1{
   font-family: Florence, cursive;
+}
+
+.navbar{
+  margin-bottom: 1rem;
 }
